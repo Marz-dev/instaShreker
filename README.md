@@ -1,5 +1,5 @@
 
-![Logo](https://shreks.corneroftheinter.net/?img=png)
+![Logo](icons/icons128.png)
 
 
 # InstaShreker

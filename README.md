@@ -1,5 +1,5 @@
 
-![Logo](icons/icons128.png)
+![Logo](icons/icon128.png)
 
 
 # InstaShreker

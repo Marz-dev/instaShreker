@@ -1,0 +1,48 @@
+body { 
+  font-family: Arial, sans-serif; 
+  background-image: url("/icons/icon48.png");
+  background-size: cover;
+  padding: 10px; 
+  color: #c5ee7d ;
+  text-align: center;
+}
+
+main {
+  background-color: #7b9244a8;
+  padding: 8px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #7a9244;
+}
+
+h1 { 
+  text-align: center;
+  color: #355302; 
+}
+h1 span {
+  color: #cd486b;
+}
+button { 
+  padding: 10px 20px; 
+  margin-top: 10px;
+  font-weight: bold;
+  color: #8cb04e;
+  background-color: #5c452d;
+}
+
+input {
+  background-color: #e1dfb6;
+}
+
+.block {
+  margin: auto;
+}
+
+#warning {
+  color: red;
+  font-weight: bold;
+}
+
+/*Initially hiding the time-left div to avoid confusion */
+.time-left {
+  display: none;
+}

@@ -1,0 +1,33 @@
+::selection {
+    background-color: #e1dfb6;
+    color: #355302;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #c5ee7d;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.container img {
+    height: 400px;
+    border: 2px solid #c5ee7d;
+    border-radius: 6px;
+}
+
+#character::before {
+    content: "~";
+    font-style: italic;
+}
+
+#character {
+    font-size: large;
+    font-weight: bolder;
+}
